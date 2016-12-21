@@ -1,3 +1,9 @@
+v0.7  (20161221-1535)
+- 2016-01-08 Fix #1 - typo: called nflog_unbind_pf instead of nflog_bind_pf
+- 2016-01-20 Only capture incoming packets
+- 2016-12-21 Changes to make it run with the ixgbe adapter
+- 2016-12-21 Merge pull request #1 from Shopify/make_it_work_at_shopify
+
 v0.6  (20150219-1309)
 - 2015-02-18 Tweak csiphash to eliminate misaligned reads
 - 2015-02-18 Split the hashlimit into two parts: update and subtraction
